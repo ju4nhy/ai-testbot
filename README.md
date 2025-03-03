@@ -6,7 +6,7 @@ This simple Discord bot was created for testing purposes — to evaluate how AI 
 
 Create a **`.env`** file in the root directory of the project and add the following:
 
-DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN
+DISCORD_BOT_TOKEN=YOUR_DISCORD_BOT_TOKEN  
 HUGGINGFACE_API_KEY=YOUR_HUGGINGFACE_API_KEY
 
 #### How to use
@@ -19,5 +19,5 @@ node index.js
 ```
 
 #### Commands
- **`!ask [question]`** – Ask a question to get a text response   
-**` !generate [prompt]`** – Generate an image based on your prompt
+**`!ask [question]`** – Ask a question to get a text response   
+**`!generate [prompt]`** – Generate an image based on your prompt
